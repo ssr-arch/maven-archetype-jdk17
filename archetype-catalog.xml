@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- https://maven.apache.org/archetype/maven-archetype-plugin/specification/archetype-catalog.html -->
+<archetype-catalog>
+    <archetypes>
+        <archetype>
+            <groupId>com.custom.simple</groupId>
+            <artifactId>SimpleProject-jdk17</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </archetype>
+    </archetypes>
+</archetype-catalog>
