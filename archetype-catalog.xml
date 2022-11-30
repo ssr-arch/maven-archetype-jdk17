@@ -3,7 +3,7 @@
 <archetype-catalog>
     <archetypes>
         <archetype>
-            <groupId>com.custom.simple</groupId>
+            <groupId>com.ssr</groupId>
             <artifactId>SimpleProject-jdk17</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </archetype>
